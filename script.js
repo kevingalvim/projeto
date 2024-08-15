@@ -15,14 +15,5 @@ function toggleMode() {
   //se tiver sem a light mode, manter a imagem normal
   img.setAttribute('src', './assets/avatar-kevin-dark.png')
 }
-     
-           
          
-
-
-           
-       
-        
-        
-  
     }
